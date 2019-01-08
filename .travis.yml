@@ -1,3 +1,9 @@
+notifications:
+  email: false
+
+env:
+  - RELEASE_TAG="release-$TRAVIS_BUILD_NUMBER"
+
 before_install:
 - sudo apt-get update -qq
 - sudo apt-get install -y pandoc
@@ -6,6 +12,9 @@ before_install:
 - chmod u+x ./travis/build.sh
 
 script: "./travis/build.sh"
+
+before_deploy:
+  - git tag -f $RELEASE_TAG
 
 deploy:
   provider: releases
