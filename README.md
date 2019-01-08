@@ -15,7 +15,7 @@ Quick and handy practical guide to onboarding new people to the team.
 
 
 ## Common tools
-  
+
 1. Git Client: https://git-scm.com/download/gui/windows (Client needed to interact with Source Control Management Systems: GitHub, GitLab, Innersource, ... )
 1. IDE Spring Tool Suite: https://spring.io/tools (Integrated Development Environment, useful tool to ease the development process)
 1. Spring Boot: https://spring.io/projects/spring-boot ( Opinionated framework used to ease the development and "boot"strapping of cloud-native applications )
