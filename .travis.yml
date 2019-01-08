@@ -12,4 +12,6 @@ deploy:
   api_key: $GITHUB_OAUTH_TOKEN
   file: "onboarding-guide.pdf"
   skip_cleanup: true
+  on:
+    all_branches: true
 
