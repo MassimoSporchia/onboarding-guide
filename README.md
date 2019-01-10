@@ -15,7 +15,6 @@ Quick and handy practical guide to onboarding new people to the team.
 
 
 ## Common tools
-
 1. Git Client: https://git-scm.com/download/gui/windows (Client needed to interact with Source Control Management Systems: GitHub, GitLab, Innersource, ... )
 1. IDE Spring Tool Suite: https://spring.io/tools (Integrated Development Environment, useful tool to ease the development process)
 1. Spring Boot: https://spring.io/projects/spring-boot ( Opinionated framework used to ease the development and "boot"strapping of cloud-native applications )
@@ -30,3 +29,12 @@ Quick and handy practical guide to onboarding new people to the team.
 1. Git guide - https://www.tutorialspoint.com/git/
 1. Microservices guide - https://www.edureka.co/blog/microservices-tutorial-with-example
 1. MongoDB guide - https://www.tutorialspoint.com/mongodb/ |
+
+## Microservices Architecture
+1. Definition - https://martinfowler.com/articles/microservices.html
+1. Patterns - https://microservices.io/patterns/microservices.html
+
+## Cloud Providers
+1. AWS (Amazon Web Services) - https://aws.amazon.com/it/
+1. GCP (Google Cloud Platform) - https://cloud.google.com/
+1. Azure - https://azure.microsoft.com/it-it/
