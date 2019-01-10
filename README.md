@@ -30,3 +30,12 @@ Quick and handy practical guide to onboarding new people to the team.
 1. Git guide - https://www.tutorialspoint.com/git/
 1. Microservices guide - https://www.edureka.co/blog/microservices-tutorial-with-example
 1. MongoDB guide - https://www.tutorialspoint.com/mongodb/ |
+
+## Microservices Architecture
+1. Definition - https://martinfowler.com/articles/microservices.html
+1. Patterns - https://microservices.io/patterns/microservices.html
+
+## Cloud Providers
+1. AWS (Amazon Web Services) - https://aws.amazon.com/it/
+1. GCP (Google Cloud Platform) - https://cloud.google.com/
+1. Azure - https://azure.microsoft.com/it-it/
