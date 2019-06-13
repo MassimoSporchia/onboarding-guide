@@ -34,13 +34,25 @@ Quick and handy practical guide to onboarding new people to the team.
 1. Definition - https://martinfowler.com/articles/microservices.html
 1. Patterns - https://microservices.io/patterns/microservices.html
 
-## Cloud Providers
+## Cloud
+1. What's Cloud computing - https://aws.amazon.com/what-is-cloud-computing/
+1. Types of Cloud computing (IaaS, PaaS, SaaS) - https://aws.amazon.com/types-of-cloud-computing/
+1. List of IaaS, PaaS and SaaS offering per Cloud Offering - https://github.com/MassimoSporchia/free-for-dev
+
+## Main Cloud Providers
 1. AWS (Amazon Web Services) - https://aws.amazon.com/it/
 1. GCP (Google Cloud Platform) - https://cloud.google.com/
 1. Azure - https://azure.microsoft.com/it-it/
+
+## List of Cloud-related trainings
+1. https://linuxacademy.com/ - Nice Hands-on and guided courses
+1. https://www.pluralsight.com/ - One of the best online courses website (if you are a beginner, I recommend: https://www.pluralsight.com/courses/cloud-computing-fundamentals )
+1. https://acloud.guru/ - One of the best online cloud-focused courses website
 
 ## Docker
 1. https://stackify.com/docker-tutorial/
 1. https://blog.sourcerer.io/a-crash-course-on-docker-learn-to-swim-with-the-big-fish-6ff25e8958b0
 1. https://docker-curriculum.com/
 1. https://dzone.com/articles/docker-tutorial-play-with-containers-simple-exampl
+
+
