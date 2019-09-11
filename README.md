@@ -34,6 +34,9 @@ Quick and handy practical guide to onboarding new people to the team.
 1. Definition - https://martinfowler.com/articles/microservices.html
 1. Patterns - https://microservices.io/patterns/microservices.html
 
+## Practice
+1. Google Code Review practice - https://google.github.io/eng-practices/review/reviewer/standard.html
+
 ## Cloud
 1. What's Cloud computing - https://aws.amazon.com/what-is-cloud-computing/
 1. Types of Cloud computing (IaaS, PaaS, SaaS) - https://aws.amazon.com/types-of-cloud-computing/
